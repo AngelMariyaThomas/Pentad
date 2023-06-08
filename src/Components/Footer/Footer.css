@@ -1,6 +1,4 @@
-
-  
-  .footermod {
+.footermod {
     background-color:#052128;
     display: flex;
     justify-content: space-between;
@@ -82,9 +80,3 @@ border: none;
 border-top: 1px solid white;
 margin: 20px 0;
 }
-
-
-
-
-
-

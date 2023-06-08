@@ -24,7 +24,7 @@ function Animation() {
                             </div>
                         </div>
                         <div className='right'>
-                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-Equity01.png.webp" alt="Image"/>
+                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-Equity01.png.webp" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ function Animation() {
 
                         </div>
                         <div className='right'>
-                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Intraday-Trades.png.webp" alt="Image"/>
+                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Intraday-Trades.png.webp" alt=" "/>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ function Animation() {
 
                         </div>
                         <div className='right'>
-                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-Equity01.png.webp" alt="Image"/>
+                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-Equity01.png.webp" alt=" "/>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ function Animation() {
                             </div>
                         </div>
                         <div className='right'>
-                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-mutual-Funds.png.webp" alt="Image"/>
+                            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/02/Invest-in-mutual-Funds.png.webp" alt=" "/>
                         </div>
                     </div>
           </div>

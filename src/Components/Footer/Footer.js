@@ -1,8 +1,9 @@
 import React from 'react'
-import"./Footer.css"
+import "./Footer.css"
 
 function Footer() {
   return (
+    
     <footer>
     <div className='footermod'>
       <div className='footersection footersection1'>
@@ -86,7 +87,6 @@ function Footer() {
                     </ul>
         </div>
         </footer>
-
   )
 }
 

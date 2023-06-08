@@ -1,14 +1,14 @@
 import React from 'react'
-import"./Page6.css"
+import "./Recentvlogs.css"
 
-function Page6() {
+function Recentvlogs() {
   return (
     <section>
 
     <h2 className='section-heading'>Recent Blogs</h2>
     <div className='section-content'>
         <div className='item'>
-            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/05/website-blog-poster-01-scaled.jpg.webp" alt="Image 1"/>
+            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2023/05/website-blog-poster-01-scaled.jpg.webp" alt=" "/>
             <div className='item-details'>
                 <p class="date">May 25, 2023</p>
                 <h3>How to do stock market investments?</h3>
@@ -16,7 +16,7 @@ function Page6() {
             </div>
         </div>
         <div className='item'>
-            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2022/06/Insurance-As-An-Investment-1.jpeg.webp" alt="Image 2"/>
+            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2022/06/Insurance-As-An-Investment-1.jpeg.webp" alt=" "/>
             <div className='item-details'>
                 <p className='date'>June 6, 2022</p>
                 <h3>Insurance as an investment</h3>
@@ -25,7 +25,7 @@ function Page6() {
             </div>
         </div>
         <div className='item'>
-            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2022/06/What-is-SIP-1.jpeg.webp" alt="Image 3"/>
+            <img src="https://www.pentadsecurities.com/engine/wp-content/uploads/2022/06/What-is-SIP-1.jpeg.webp" alt=" "/>
             <div className='item-details'>
                 <p className='date'>June 6, 2022</p>
                 <h3> What is SIP/Systematic Investment Plan</h3>
@@ -39,9 +39,7 @@ function Page6() {
     <br/><br/><br/><br/>
 </section>
 
-
-
   )
 }
 
-export default Page6
+export default Recentvlogs
